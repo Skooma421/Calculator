@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundPink">#e8b9d0</color>
+    <color name="amaranthPink">#e5a1be</color>
+    <color name="baseBackgroundPink">#efd7e1</color>
+    <color name="textGrey">#615C62</color>
+    <color name="milkyWhite">#f3edf3</color>
+    <color name="magentaText">#89375A</color>
+</resources>
